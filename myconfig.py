@@ -41,8 +41,10 @@
 # 
 # #STEERING
 # STEERING_CHANNEL = 1            #channel on the 9685 pwm board 0-15
-STEERING_LEFT_PWM = 481         #pwm value for full left steering
-STEERING_RIGHT_PWM = 241        #pwm value for full right steering
+#STEERING_LEFT_PWM = 481         #pwm value for full left steering
+#STEERING_RIGHT_PWM = 241        #pwm value for full right steering
+STEERING_LEFT_PWM = 511         #pwm value for full left steering
+STEERING_RIGHT_PWM = 211        #pwm value for full right steering
 # 
 # #THROTTLE
 # THROTTLE_CHANNEL = 0            #channel on the 9685 pwm board 0-15
